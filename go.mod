@@ -1,3 +1,3 @@
-module github.com/xVeDi/testmod.git
+module github.com/xVeDi/testmod
 
 go 1.18
